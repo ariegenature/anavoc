@@ -2,6 +2,8 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 
 ana:phototheque a skos:ConceptScheme ;
@@ -10,7 +12,9 @@ ana:phototheque a skos:ConceptScheme ;
 ana:aeshnide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
-    skos:prefLabel "aeshnidé"@fr .
+    skos:prefLabel "aeshnidé"@fr ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aeshnidae> ;
+    skos:exactMatch dbr:Amphibian .
 
 ana:agriculture a skos:Concept ;
     skos:inScheme ana:phototheque ;
