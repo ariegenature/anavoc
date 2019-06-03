@@ -13,58 +13,90 @@ ana:aeshnide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
     skos:prefLabel "aeshnidé"@fr ;
-    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aeshnidae> ;
-    skos:exactMatch dbr:Amphibian .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/34> ;
+    <https://photos.ariegenature.fr/index.php?/search/34> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aeshnidae> .
 
 ana:agriculture a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:activite_humaine ;
-    skos:prefLabel "agriculture"@fr .
+    skos:prefLabel "agriculture"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/35> ;
+    <https://photos.ariegenature.fr/index.php?/search/35> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Agriculture> ;
+    skos:exactMatch dbr:Agriculture .
 
 ana:alluviale a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:foret ;
     skos:prefLabel "forêt alluviale"@fr .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/36> ;
+    <https://photos.ariegenature.fr/index.php?/search/36> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/For%C3%AAt_alluviale> .
 
 ana:amarantacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "amarantacée"@fr .
+    skos:prefLabel "amarantacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/38> ;
+    <https://photos.ariegenature.fr/index.php?/search/38> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Amaranthaceae>.
 
 ana:animation_grand_public a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:action_associative ;
-    skos:prefLabel "animation grand public"@fr .
+    skos:prefLabel "animation grand public"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/40> ;
+    <https://photos.ariegenature.fr/index.php?/search/40> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:animation_scolaire a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:action_associative ;
-    skos:prefLabel "animation scolaire"@fr .
+    skos:prefLabel "animation scolaire"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/41> ;
+    <https://photos.ariegenature.fr/index.php?/search/41> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:annelide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
-    skos:prefLabel "annélide"@fr .
+    skos:prefLabel "annélide"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/43> ;
+    <https://photos.ariegenature.fr/index.php?/search/43> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Annelida> .
 
 ana:anoure a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:amphibien ;
-    skos:prefLabel "anoure"@fr .
+    skos:prefLabel "anoure"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/tags/20-anoure> ;
+    <https://photos.ariegenature.fr/index.php?/tags/20-anoure> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Anoures> .
 
 ana:arachnide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
-    skos:prefLabel "arachnide"@fr .
+    skos:prefLabel "arachnide"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/tags/29-arachnide> ;
+    <https://photos.ariegenature.fr/index.php?/tags/29-arachnide> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Arachnida> ;
+    skos:exactMatch dbr:Arachnid .
 
 ana:araucariacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "araucariacée"@fr .
+    skos:prefLabel "araucariacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/47> ;
+    <https://photos.ariegenature.fr/index.php?/search/47> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Araucariaceae> ;
+    skos:exactMatch dbr:Araucaria .
 
 ana:aristolochiacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "aristolochiacée"@fr .
+    skos:prefLabel "aristolochiacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/48> ;
+    <https://photos.ariegenature.fr/index.php?/search/48> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aristolochiaceae> .
 
 ana:automne a skos:Concept ;
     skos:inScheme ana:phototheque ;
