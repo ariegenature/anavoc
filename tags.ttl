@@ -1,0 +1,893 @@
+@prefix ana: <http://thesaurus.priv.ariegenature.fr/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+ana:phototheque a skos:ConceptScheme ;
+    dcterms:title "Etiquettes de la photothèque"@fr .
+
+ana:aeshnide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "aeshnidé"@fr .
+
+ana:agriculture a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "agriculture"@fr .
+
+ana:alluviale a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:foret ;
+    skos:prefLabel "forêt alluviale"@fr .
+
+ana:amarantacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "amarantacée"@fr .
+
+ana:animation_grand_public a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "animation grand public"@fr .
+
+ana:animation_scolaire a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "animation scolaire"@fr .
+
+ana:annelide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "annélide"@fr .
+
+ana:anoure a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:amphibien ;
+    skos:prefLabel "anoure"@fr .
+
+ana:arachnide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "arachnide"@fr .
+
+ana:araucariacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "araucariacée"@fr .
+
+ana:aristolochiacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "aristolochiacée"@fr .
+
+ana:automne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:saison ;
+    skos:prefLabel "automne"@fr .
+
+ana:bati a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "bâti"@fr .
+
+ana:berberidacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "berberidacée"@fr .
+
+ana:betulacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "bétulacée"@fr .
+
+ana:biolithogene a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:roche ;
+    skos:prefLabel "roche biolithogène"@fr .
+
+ana:bras_mort a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_stagnante ;
+    skos:prefLabel "bras mort"@fr .
+
+ana:calopterygide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "calopterygidé"@fr .
+
+ana:cannabacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "cannabacée"@fr .
+
+ana:caryophyllacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "caryophyllacée"@fr .
+
+ana:cascade a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_courante ;
+    skos:prefLabel "cascade"@fr .
+
+ana:cephalotexacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "céphalotexacée"@fr .
+
+ana:ceratophyllacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "cératophyllacée"@fr .
+
+ana:chantier a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "chantier"@fr .
+
+ana:chenopodiacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "chénopodiacée"@fr .
+
+ana:ciel_nuage a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:bocage ;
+    skos:prefLabel "ciel et nuage"@fr .
+
+ana:coenagrionide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "coenagrionidé"@fr .
+
+ana:coleoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "coléoptère"@fr .
+
+ana:collineenne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:foret ;
+    skos:prefLabel "forêt collinéenne"@fr .
+
+ana:colombin a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "colombin"@fr .
+
+ana:combe a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:montagne ;
+    skos:prefLabel "combe à neige"@fr .
+
+ana:corduliide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "corduliidé"@fr .
+
+ana:corylacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "corylacée"@fr .
+
+ana:cours a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_courante ;
+    skos:prefLabel "cours d'eau"@fr .
+
+ana:crassulacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "crassulacée"@fr .
+
+ana:crucifere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "crucuifère"@fr .
+
+ana:crustace a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "crustacé"@fr .
+
+ana:cupressacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "cupressacée"@fr .
+
+ana:dechet a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pollution ;
+    skos:prefLabel "déchet"@fr .
+
+ana:diptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "diptère"@fr .
+
+ana:droseracee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "droséracée"@fr .
+
+ana:echassier a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "échassier"@fr .
+
+ana:ephemeroptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "éphéméroptère"@fr .
+
+ana:espece_domestique a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:precision ;
+    skos:prefLabel "espèce domestique"@fr .
+
+ana:espece_envahissante a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:precision ;
+    skos:prefLabel "espèce exotique envahissante"@fr .
+
+ana:etang a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_stagnante ;
+    skos:prefLabel "étang"@fr .
+
+ana:ete a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:saison ;
+    skos:prefLabel "été"@fr .
+
+ana:exposition a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "exposition"@fr .
+
+ana:fagacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "fagacée"@fr .
+
+ana:foresterie a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "foresterie"@fr .
+
+ana:foret_montagne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:foret ;
+    skos:prefLabel "forêt de montagne"@fr .
+
+ana:formation a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "formation"@fr .
+
+ana:fougere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "foougère"@fr .
+
+ana:fumariacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "fumariacée"@fr .
+
+ana:gallinace a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "gallinacé"@fr .
+
+ana:garrigue a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:coteaux_secs ;
+    skos:prefLabel "garrigue"@fr .
+
+ana:ginkgoacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "ginkgoacée"@fr .
+
+ana:gomphide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "gomphidé"@fr .
+
+ana:graviere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "gravière"@fr .
+
+ana:grimpeur a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "grimpeur"@fr .
+
+ana:grossulariacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "grossulariacée"@fr .
+
+ana:habitation a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "habitation"@fr .
+
+ana:haie a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:bocage ;
+    skos:prefLabel "haie"@fr .
+
+ana:heterocere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:lepidoptere ;
+    skos:prefLabel "hétérocère"@fr .
+
+ana:heteroptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "hétéroptère"@fr .
+
+ana:hippocastanacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "hippocastanacée"@fr .
+
+ana:hiver a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:saison ;
+    skos:prefLabel "hiver"@fr .
+
+ana:homoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "homoptère"@fr .
+
+ana:hymenoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "hyménoptère"@fr .
+
+ana:industrie a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "industrie"@fr .
+
+ana:infrastructure a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "infrastructre"@fr .
+
+ana:inventaire_naturaliste a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "inventaire naturaliste"@fr .
+
+ana:juglandacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "juglandacée"@fr .
+
+ana:lac a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_stagnante ;
+    skos:prefLabel "lac"@fr .
+
+ana:lande a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:montagne ;
+    skos:prefLabel "lande"@fr .
+
+ana:lande_genet a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:coteaux_secs ;
+    skos:prefLabel "lande à genêt"@fr .
+
+ana:lestide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "lestidé"@fr .
+
+ana:lezard a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:reptile ;
+    skos:prefLabel "lézard"@fr .
+
+ana:libellulide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:odonate ;
+    skos:prefLabel "libellulidé"@fr .
+
+ana:lichen a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:fonge ;
+    skos:prefLabel "lichen"@fr .
+
+ana:loranthacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "loranthacée"@fr .
+
+ana:magmatique a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:roche ;
+    skos:prefLabel "roche magmatique"@fr .
+
+ana:mammifere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "mammifère"@fr .
+
+ana:mantoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "mantoptère"@fr .
+
+ana:maquis a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:coteaux_secs ;
+    skos:prefLabel "maquis"@fr .
+
+ana:mare a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_stagnante ;
+    skos:prefLabel "mare"@fr .
+
+ana:marecageuse a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:foret ;
+    skos:prefLabel "forêt marécageuse"@fr .
+
+ana:mediterranenne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:foret ;
+    skos:prefLabel "forêt méditerranéenne"@fr .
+
+ana:megaphorbiaie a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_stagnante ;
+    skos:prefLabel "mégaphorbiaie"@fr .
+
+ana:messicole a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:precision ;
+    skos:prefLabel "messicole"@fr .
+
+ana:metamorphique a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:roche ;
+    skos:prefLabel "roche métamorphique"@fr .
+
+ana:mine a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "mine"@fr .
+
+ana:mollusque a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "mollusque"@fr .
+
+ana:monde_souterrain a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "monde souterrain"@fr .
+
+ana:moracee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "moracée"@fr .
+
+ana:mousse a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "mousse"@fr .
+
+ana:mur a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "mur"@fr .
+
+ana:mycete a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:fonge ;
+    skos:prefLabel "mycète"@fr .
+
+ana:myriapode a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "myriapode"@fr .
+
+ana:myricacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "myricacée"@fr .
+
+ana:neige a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:montagne ;
+    skos:prefLabel "neige"@fr .
+
+ana:neuroptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "neuroptère"@fr .
+
+ana:nympheacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "nymphéacée"@fr .
+
+ana:orthoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "orthoptère"@fr .
+
+ana:palmipede a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "palmipède"@fr .
+
+ana:papaveracee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "papaveracée"@fr .
+
+ana:parnassiacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "parnassiacée"@fr .
+
+ana:passereau a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "passereau"@fr .
+
+ana:pedagogie a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "outil et support pédagogique"@fr .
+
+ana:pelouse_alpine a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:montagne ;
+    skos:prefLabel "pelouse alpine"@fr .
+
+ana:pelouse_seche a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:coteaux_secs ;
+    skos:prefLabel "pelouse sèche"@fr .
+
+ana:pinacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "pinacée"@fr .
+
+ana:plaine a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "plaine"@fr .
+
+ana:plecoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "plecoptère"@fr .
+
+ana:podocarpacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "podocarpacée"@fr .
+
+ana:poisson a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "poisson"@fr .
+
+ana:polygonacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "polygonacée"@fr .
+
+ana:pont a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "pont"@fr .
+
+ana:portulacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "portulacée"@fr .
+
+ana:prairie a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:bocage ;
+    skos:prefLabel "prairie"@fr .
+
+ana:prairie_humide a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:bocage ;
+    skos:prefLabel "prairie humide"@fr .
+
+ana:printemps a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:saison ;
+    skos:prefLabel "printemps"@fr .
+
+ana:rapace_diurne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "rapace diurne"@fr .
+
+ana:rapace_nocturne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:oiseau ;
+    skos:prefLabel "rapace nocturne"@fr .
+
+ana:rencontre a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "rencontre"@fr .
+
+ana:renonculacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "rénonculacée"@fr .
+
+ana:resedacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "résédacée"@fr .
+
+ana:rhopalocere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:lepidoptere ;
+    skos:prefLabel "rhopalocère"@fr .
+
+ana:ripisylve a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:foret ;
+    skos:prefLabel "ripisylve"@fr .
+
+ana:rocher_falaise a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "rocher et falaise"@fr .
+
+ana:rosacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "rosacée"@fr .
+
+ana:salicacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "salicacée"@fr .
+
+ana:santalacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "santalacée"@fr .
+
+ana:sarraceniacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "sarracéniacée"@fr .
+
+ana:saxifragacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "saxifragacée"@fr .
+
+ana:sedimentaire a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:roche ;
+    skos:prefLabel "roche sédimentaire"@fr .
+
+ana:serpent a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:reptile ;
+    skos:prefLabel "serpent"@fr .
+
+ana:sortie_adherent a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "sortie adhérent"@fr .
+
+ana:source a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_cournate ;
+    skos:prefLabel "source"@fr .
+
+ana:sport_nature a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "sport de nature"@fr .
+
+ana:stand a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:action_associative ;
+    skos:prefLabel "stand"@fr .
+
+ana:taxodiacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "taxodiacée"@fr .
+
+ana:terrasse a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "terrasse"@fr .
+
+ana:texacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "texacée"@fr .
+
+ana:tortue a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:reptile ;
+    skos:prefLabel "tortue"@fr .
+
+ana:tourbiere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:eau_stagnante ;
+    skos:prefLabel "tourbière"@fr .
+
+ana:transhumance a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "transhumance"@fr .
+
+ana:trichoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "trichoptère"@fr .
+
+ana:ulmacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "ulmacée"@fr .
+
+ana:urodele a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:amphibien ;
+    skos:prefLabel "urodèle"@fr .
+
+ana:urticacee a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:phanerogame ;
+    skos:prefLabel "urticacée"@fr .
+
+ana:vestige_archeo a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:ville_village ;
+    skos:prefLabel "vestige archéologique"@fr .
+
+ana:eau_courante a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "eau courante"@fr .
+
+ana:pollution a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:activite_humaine ;
+    skos:prefLabel "pollution"@fr .
+
+ana:amphibien a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "amphibien"@fr .
+
+ana:fonge a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:topConceptOf ana:phototheque ;
+    skos:prefLabel "fonge"@fr .
+
+ana:humain a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:topConceptOf ana:phototheque ;
+    skos:prefLabel "humain"@fr .
+
+ana:lepidoptere a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "lépidoptère"@fr .
+
+ana:reptile a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "reptile"@fr .
+
+ana:bocage a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "bocage"@fr .
+
+ana:coteaux_secs a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "coteaux secs"@fr .
+
+ana:flore a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:prefLabel "flore"@fr ;
+    skos:topConceptOf ana:phototheque .
+
+ana:montagne a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "montagne"@fr .
+
+ana:precision a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:topConceptOf ana:phototheque ;
+    skos:prefLabel "précision"@fr .
+
+ana:roche a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:topConceptOf ana:phototheque ;
+    skos:prefLabel "roche"@fr .
+
+ana:saison a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:precision ;
+    skos:prefLabel "saison"@fr .
+
+ana:eau_stagnante a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "eau stagnante"@fr .
+
+ana:foret a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "forêt"@fr .
+
+ana:activite_humaine a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:humain ;
+    skos:prefLabel "activité humaine"@fr .
+
+ana:odonate a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:insecte ;
+    skos:prefLabel "odonate"@fr .
+
+ana:ville_village a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:paysage ;
+    skos:prefLabel "ville et village"@fr .
+
+ana:oiseau a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "oiseau"@fr .
+
+ana:action_associative a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:humain ;
+    skos:prefLabel "action associative"@fr .
+
+ana:paysage a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:prefLabel "paysage"@fr ;
+    skos:topConceptOf ana:phototheque .
+
+ana:faune a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:prefLabel "faune"@fr ;
+    skos:topConceptOf ana:phototheque .
+
+ana:insecte a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:faune ;
+    skos:prefLabel "insecte"@fr .
+
+ana:phanerogame a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "phanérogame"@fr .
