@@ -31,7 +31,7 @@ ana:agriculture a skos:Concept ;
 ana:alluviale a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:foret ;
-    skos:prefLabel "forêt alluviale"@fr .
+    skos:prefLabel "forêt alluviale"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/36> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/For%C3%AAt_alluviale> .
 
