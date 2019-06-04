@@ -5,7 +5,6 @@
 @prefix dbr: <http://dbpedia.org/resource/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
-
 ana:phototheque a skos:ConceptScheme ;
     dcterms:title "Etiquettes de la photothèque"@fr .
 
