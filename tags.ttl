@@ -101,27 +101,41 @@ ana:aristolochiacee a skos:Concept ;
 ana:automne a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:saison ;
-    skos:prefLabel "automne"@fr .
+    skos:prefLabel "automne"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/49> ;
+    <https://photos.ariegenature.fr/index.php?/search/49> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:bati a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:activite_humaine ;
-    skos:prefLabel "bâti"@fr .
+    skos:prefLabel "bâti"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/50> ;
+    <https://photos.ariegenature.fr/index.php?/search/50> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:berberidacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "berberidacée"@fr .
+    skos:prefLabel "berberidacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/51> ;
+    <https://photos.ariegenature.fr/index.php?/search/51> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Berberidaceae> ;
+    skos:exactMatch dbr:Berberidaceae .
 
 ana:betulacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "bétulacée"@fr .
+    skos:prefLabel "bétulacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/52> ;
+    <https://photos.ariegenature.fr/index.php?/search/52> a schema:SearchResultsPage, schema:ImageGallery ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Betulaceae> ;
+    skos:exactMatch dbr:Betulaceae .
 
 ana:biolithogene a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:roche ;
-    skos:prefLabel "roche biolithogène"@fr .
+    skos:prefLabel "roche biolithogène"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/53> ;
+    <https://photos.ariegenature.fr/index.php?/search/53> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:bras_mort a skos:Concept ;
     skos:inScheme ana:phototheque ;
