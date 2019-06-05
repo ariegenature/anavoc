@@ -156,117 +156,217 @@ ana:biolithogene a skos:Concept ;
 ana:bras_mort a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:eau_stagnante ;
-    skos:prefLabel "bras mort"@fr .
+    skos:prefLabel "bras mort"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/54>.
+
+<https://photos.ariegenature.fr/index.php?/search/54> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:calopterygide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
-    skos:prefLabel "calopterygidé"@fr .
+    skos:prefLabel "calopterygidé"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/55> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Calopterygidae> ;
+    skos:exactMatch dbr:Calopterygidae .
+
+<https://photos.ariegenature.fr/index.php?/search/55> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:cannabacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "cannabacée"@fr .
+    skos:prefLabel "cannabacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/56> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cannabaceae> ;
+    skos:exactMatch dbr:Cannabaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/56> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:caryophyllacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "caryophyllacée"@fr .
+    skos:prefLabel "caryophyllacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/57> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Caryophyllaceae> ;
+    skos:exactMatch dbr:Caryophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/57> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:cascade a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:eau_courante ;
-    skos:prefLabel "cascade"@fr .
+    skos:prefLabel "cascade"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/58> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cascade> .
 
-ana:cephalotexacee a skos:Concept ;
+<https://photos.ariegenature.fr/index.php?/search/58> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cephalotaxacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "céphalotexacée"@fr .
+    skos:prefLabel "céphalotaxacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/61> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cephalotaxaceae> ;
+    skos:exactMatch dbr:Cephalotaxaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/61> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:ceratophyllacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "cératophyllacée"@fr .
+    skos:prefLabel "cératophyllacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/62> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ceratophyllaceae> ;
+    skos:exactMatch dbr:Ceratophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/62> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:chantier a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:action_associative ;
-    skos:prefLabel "chantier"@fr .
+    skos:prefLabel "chantier"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/63> .
+
+<https://photos.ariegenature.fr/index.php?/search/63> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:chenopodiacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "chénopodiacée"@fr .
+    skos:prefLabel "chénopodiacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/67> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Chenopodiaceae> ;
+    skos:exactMatch dbr:Chenopodiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/67> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:ciel_nuage a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:bocage ;
-    skos:prefLabel "ciel et nuage"@fr .
+    skos:prefLabel "ciel et nuage"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/64> .
+
+<https://photos.ariegenature.fr/index.php?/search/64> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:coenagrionide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
-    skos:prefLabel "coenagrionidé"@fr .
+    skos:prefLabel "coenagrionidé"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/65> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Coenagrionidae> ;
+    skos:exactMatch dbr:Coenagrionidae.
+
+<https://photos.ariegenature.fr/index.php?/search/65> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:coleoptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
-    skos:prefLabel "coléoptère"@fr .
+    skos:prefLabel "coléoptère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/66> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Coleoptera> ;
+    skos:exactMatch dbr:Coleoptera .
+
+<https://photos.ariegenature.fr/index.php?/search/66> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:collineenne a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:foret ;
-    skos:prefLabel "forêt collinéenne"@fr .
+    skos:prefLabel "forêt collinéenne"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/69> .
+
+<https://photos.ariegenature.fr/index.php?/search/69> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:colombin a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:oiseau ;
-    skos:prefLabel "colombin"@fr .
+    skos:prefLabel "colombin"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/70> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Pigeon_colombin> .
+
+<https://photos.ariegenature.fr/index.php?/search/70> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:combe a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:montagne ;
-    skos:prefLabel "combe à neige"@fr .
+    skos:prefLabel "combe à neige"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/71> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Combe_%C3%A0_neige> .
+
+<https://photos.ariegenature.fr/index.php?/search/71> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:corduliide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
-    skos:prefLabel "corduliidé"@fr .
+    skos:prefLabel "corduliidé"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/72> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Corduliidae> ;
+    skos:exactMatch dbr:Corduliidae .
+
+<https://photos.ariegenature.fr/index.php?/search/72> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:corylacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "corylacée"@fr .
+    skos:prefLabel "corylacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/73> .
+
+<https://photos.ariegenature.fr/index.php?/search/73> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:cours a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:eau_courante ;
-    skos:prefLabel "cours d'eau"@fr .
+    skos:prefLabel "cours d'eau"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/74> .
+
+<https://photos.ariegenature.fr/index.php?/search/74> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:crassulacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "crassulacée"@fr .
+    skos:prefLabel "crassulacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/75> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Crassulaceae> ;
+    skos:exactMatch dbr:Crassulaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/75> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:crucifere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "crucuifère"@fr .
+    skos:prefLabel "crucifère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/76> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Brassicaceae> ;
+    skos:exactMatch dbr:Brassicaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/76> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:crustace a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
-    skos:prefLabel "crustacé"@fr .
+    skos:prefLabel "crustacé"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/77> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Crustac%C3%A9> ;
+    skos:exactMatch dbr:Crustacé .
+
+<https://photos.ariegenature.fr/index.php?/search/77> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:cupressacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "cupressacée"@fr .
+    skos:prefLabel "cupressacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/78> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cupressaceae> ;
+    skos:exactMatch dbr:Cupressaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/78> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:dechet a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:pollution ;
-    skos:prefLabel "déchet"@fr .
+    skos:prefLabel "déchet"@fr ;
+    foaf:page <> ;
+    foaf:isPrimaryTopicOf <> ;
+    skos:exactMatch dbr: .
+
+<> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:diptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
