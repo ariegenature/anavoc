@@ -362,56 +362,91 @@ ana:dechet a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:pollution ;
     skos:prefLabel "déchet"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/79> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/79> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:diptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
-    skos:prefLabel "diptère"@fr .
+    skos:prefLabel "diptère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/80> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Diptera> ;
+    skos:exactMatch dbr:Diptera .
+
+<https://photos.ariegenature.fr/index.php?/search/80> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:droseracee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "droséracée"@fr .
+    skos:prefLabel "droséracée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/81> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Droseraceae> ;
+    skos:exactMatch dbr:Droseraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/81> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:echassier a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:oiseau ;
-    skos:prefLabel "échassier"@fr .
+    skos:prefLabel "échassier"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/82> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/%C3%89chassier_(oiseau)> ;
+    skos:exactMatch dbr:Échassier .
+
+<https://photos.ariegenature.fr/index.php?/search/82> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:ephemeroptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
-    skos:prefLabel "éphéméroptère"@fr .
+    skos:prefLabel "éphéméroptère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/83> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ephemeroptera> ;
+    skos:exactMatch dbr:Ephemeroptera .
+
+<https://photos.ariegenature.fr/index.php?/search/83> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:espece_domestique a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:precision ;
-    skos:prefLabel "espèce domestique"@fr .
+    skos:prefLabel "espèce domestique"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/84> .
+
+<https://photos.ariegenature.fr/index.php?/search/84> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:espece_envahissante a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:precision ;
-    skos:prefLabel "espèce exotique envahissante"@fr .
+    skos:prefLabel "espèce exotique envahissante"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/86> .
+
+<https://photos.ariegenature.fr/index.php?/search/86> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:etang a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:eau_stagnante ;
-    skos:prefLabel "étang"@fr .
+    skos:prefLabel "étang"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/87> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Étang> ;
+    skos:exactMatch dbr:Étang .
+
+<https://photos.ariegenature.fr/index.php?/search/87> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:ete a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:saison ;
-    skos:prefLabel "été"@fr .
+    skos:prefLabel "été"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/89> .
+
+<https://photos.ariegenature.fr/index.php?/search/89> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:exposition a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:action_associative ;
-    skos:prefLabel "exposition"@fr .
+    skos:prefLabel "exposition"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/90> .
+
+<https://photos.ariegenature.fr/index.php?/search/90> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:fagacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
