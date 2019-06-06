@@ -1450,258 +1450,233 @@ ana:vestige_archeo a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:ville_village ;
     skos:prefLabel "vestige archéologique"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/199> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/199> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:eau_courante a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "eau courante"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/200> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/200> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:pollution a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:activite_humaine ;
     skos:prefLabel "pollution"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/201> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/201> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:amphibien a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
     skos:prefLabel "amphibien"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/202> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Amphibia> ;
+    skos:exactMatch dbr:Amphibia .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/202> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:fonge a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:topConceptOf ana:phototheque ;
     skos:prefLabel "fonge"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/203> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Fungi> ;
+    skos:closeMatch dbr:Fungi .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/203> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:humain a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:topConceptOf ana:phototheque ;
     skos:prefLabel "humain"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/204> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/204> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lepidoptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
     skos:prefLabel "lépidoptère"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/205> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lepidoptera> ;
+    skos:exactMatch dbr:Lepidoptera .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/205> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:reptile a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
     skos:prefLabel "reptile"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/206> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Reptile> ;
+    skos:exactMatch dbr:Reptile .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/206> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:bocage a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "bocage"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/207> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Bocage> ;
+    skos:exactMatch dbr:Bocage .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/207> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:coteaux_secs a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "coteaux secs"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/208> ;
+    skos:closeMatch dbr:Coteau .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/208> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:flore a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:prefLabel "flore"@fr ;
     skos:topConceptOf ana:phototheque ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/209> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Flore> ;
+    skos:exactMatch dbr:Flore .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/209> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:montagne a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "montagne"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/27> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Montagne> ;
+    skos:exactMatch dbr:Montagne .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/27> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:precision a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:topConceptOf ana:phototheque ;
-    skos:prefLabel "précision"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
-
-<> a schema:SearchResultsPage, schema:ImageGallery .
+    skos:prefLabel "précision"@fr .
 
 ana:roche a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:topConceptOf ana:phototheque ;
     skos:prefLabel "roche"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/210> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Roche> ;
+    skos:exactMatch dbr:Roche .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/210> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:saison a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:precision ;
-    skos:prefLabel "saison"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
-
-<> a schema:SearchResultsPage, schema:ImageGallery .
+    skos:prefLabel "saison"@fr .
 
 ana:eau_stagnante a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "eau stagnante"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/211> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/211> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:foret a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "forêt"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/212> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Forêt> ;
+    skos:exactMatch dbr:Forêt .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/212> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:activite_humaine a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:humain ;
     skos:prefLabel "activité humaine"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/213> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/213> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:odonate a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
     skos:prefLabel "odonate"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    skos:altLabel "libellule"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/18> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Odonata> ;
+    skos:exactMatch dbr:Odonata .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/18> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:ville_village a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:paysage ;
     skos:prefLabel "ville et village"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/214> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/214> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:oiseau a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
     skos:prefLabel "oiseau"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    skos:altLabel "volatile"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/215> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Oiseau> ;
+    skos:exactMatch dbr:Oiseau .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/215> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:action_associative a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:humain ;
     skos:prefLabel "action associative"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/216> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/216> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:paysage a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:prefLabel "paysage"@fr ;
     skos:topConceptOf ana:phototheque ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/12> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Paysage> ;
+    skos:exactMatch dbr:Paysage .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/12> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:faune a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:prefLabel "faune"@fr ;
     skos:topConceptOf ana:phototheque ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/217> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Faune> ;
+    skos:exactMatch dbr:Faune .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/217> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:insecte a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:faune ;
     skos:prefLabel "insecte"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/218> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Insecte> ;
+    skos:exactMatch dbr:Insecte .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/218> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:phanerogame a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:flore ;
     skos:prefLabel "phanérogame"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/219> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Phanérogames> ;
+    skos:exactMatch dbr:Phanérogames .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/219> a schema:SearchResultsPage, schema:ImageGallery .
