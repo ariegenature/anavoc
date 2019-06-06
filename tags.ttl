@@ -510,6 +510,7 @@ ana:gallinace a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:oiseau ;
     skos:prefLabel "gallinacé"@fr ;
+    skos:altLabel "galliforme"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/97> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Galliformes> ;
     skos:exactMatch dbr:Galliformes .
@@ -520,106 +521,137 @@ ana:garrigue a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:coteaux_secs ;
     skos:prefLabel "garrigue"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/98> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Garrigue> ;
+    skos:exactMatch dbr:Garrigue .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/98> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:ginkgoacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
     skos:prefLabel "ginkgoacée"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/99> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ginkgoaceae> ;
+    skos:exactMatch dbr:Ginkgoaceae .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/99> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:gomphide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
     skos:prefLabel "gomphidé"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/100> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Gomphidius> ;
+    skos:exactMatch dbr:Gomphidius .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/100> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:graviere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:ville_village ;
     skos:prefLabel "gravière"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/101> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Gravière> ;
+    skos:exactMatch dbr:Gravière .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/101> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:grimpeur a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:oiseau ;
     skos:prefLabel "grimpeur"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/105> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/105> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:grossulariacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
     skos:prefLabel "grossulariacée"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/102> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Grossulariaceae> ;
+    skos:exactMatch dbr:Grossulariaceae .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/102> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:habitation a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:ville_village ;
     skos:prefLabel "habitation"@fr ;
-    foaf:page <> ;
-    foaf:isPrimaryTopicOf <> ;
-    skos:exactMatch dbr: .
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/103> .
 
-<> a schema:SearchResultsPage, schema:ImageGallery .
+<https://photos.ariegenature.fr/index.php?/search/103> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:haie a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:bocage ;
-    skos:prefLabel "haie"@fr .
+    skos:prefLabel "haie"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/104> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Haie> ;
+    skos:exactMatch dbr:Haie .
+
+<https://photos.ariegenature.fr/index.php?/search/104> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:heterocere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:lepidoptere ;
-    skos:prefLabel "hétérocère"@fr .
+    skos:prefLabel "hétérocère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/106> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hétérocères> ;
+    skos:exactMatch dbr:Hétérocères .
+
+<https://photos.ariegenature.fr/index.php?/search/106> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:heteroptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
-    skos:prefLabel "hétéroptère"@fr .
+    skos:prefLabel "hétéroptère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/107> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Heteroptera> ;
+    skos:exactMatch dbr:Heteroptera .
+
+<https://photos.ariegenature.fr/index.php?/search/107> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:hippocastanacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "hippocastanacée"@fr .
+    skos:prefLabel "hippocastanacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/108> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hippocastanaceae> ;
+    skos:exactMatch dbr:Hippocastanaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/108> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:hiver a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:saison ;
-    skos:prefLabel "hiver"@fr .
+    skos:prefLabel "hiver"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/109> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hiver> ;
+    skos:exactMatch dbr:Hiver .
+
+<https://photos.ariegenature.fr/index.php?/search/109> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:homoptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
-    skos:prefLabel "homoptère"@fr .
+    skos:prefLabel "homoptère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/110> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Homoptera> ;
+    skos:exactMatch dbr:Homoptera .
+
+<https://photos.ariegenature.fr/index.php?/search/110> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:hymenoptere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:insecte ;
-    skos:prefLabel "hyménoptère"@fr .
+    skos:prefLabel "hyménoptère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/111> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hymenoptera> ;
+    skos:exactMatch dbr:Hymenoptera .
+
+<https://photos.ariegenature.fr/index.php?/search/111> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:industrie a skos:Concept ;
     skos:inScheme ana:phototheque ;
