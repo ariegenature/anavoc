@@ -656,62 +656,117 @@ ana:hymenoptere a skos:Concept ;
 ana:industrie a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:activite_humaine ;
-    skos:prefLabel "industrie"@fr .
+    skos:prefLabel "industrie"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/112> .
+
+<https://photos.ariegenature.fr/index.php?/search/112> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:infrastructure a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:activite_humaine ;
-    skos:prefLabel "infrastructre"@fr .
+    skos:prefLabel "infrastructre"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/113> .
+
+<https://photos.ariegenature.fr/index.php?/search/113> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:inventaire_naturaliste a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:action_associative ;
-    skos:prefLabel "inventaire naturaliste"@fr .
+    skos:prefLabel "inventaire naturaliste"@fr ;
+    skos:altLabel "évaluation environnementale"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/114> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Évaluation_environnementale> ;
+    skos:closeMatch dbr:Évaluation_environnementale .
+
+<https://photos.ariegenature.fr/index.php?/search/114> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:juglandacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "juglandacée"@fr .
+    skos:prefLabel "juglandacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/115> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Juglandaceae> ;
+    skos:exactMatch dbr:Juglandaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/115> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lac a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:eau_stagnante ;
-    skos:prefLabel "lac"@fr .
+    skos:prefLabel "lac"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/116> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lac> ;
+    skos:exactMatch dbr:Lac .
+
+<https://photos.ariegenature.fr/index.php?/search/116> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lande a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:montagne ;
-    skos:prefLabel "lande"@fr .
+    skos:prefLabel "lande"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/117> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lande> ;
+    skos:exactMatch dbr:Lande .
+
+<https://photos.ariegenature.fr/index.php?/search/117> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lande_genet a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:coteaux_secs ;
-    skos:prefLabel "lande à genêt"@fr .
+    skos:prefLabel "lande à genêt"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/119> .
+
+<https://photos.ariegenature.fr/index.php?/search/119> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lestide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
-    skos:prefLabel "lestidé"@fr .
+    skos:prefLabel "lestidé"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/120> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lestidae> ;
+    skos:exactMatch dbr:Lestidae .
+
+<https://photos.ariegenature.fr/index.php?/search/120> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lezard a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:reptile ;
-    skos:prefLabel "lézard"@fr .
+    skos:prefLabel "lézard"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/121> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lézard> ;
+    skos:exactMatch dbr:Lézard .
+
+<https://photos.ariegenature.fr/index.php?/search/121> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:libellulide a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:odonate ;
-    skos:prefLabel "libellulidé"@fr .
+    skos:prefLabel "libellulidé"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/122> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Libellulidae> ;
+    skos:exactMatch dbr:Libellulidae .
+
+<https://photos.ariegenature.fr/index.php?/search/122> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:lichen a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:fonge ;
-    skos:prefLabel "lichen"@fr .
+    skos:prefLabel "lichen"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/123> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lichen> ;
+    skos:exactMatch dbr:Lichen .
+
+<https://photos.ariegenature.fr/index.php?/search/123> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:loranthacee a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:phanerogame ;
-    skos:prefLabel "loranthacée"@fr .
+    skos:prefLabel "loranthacée"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/124> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Loranthaceae> ;
+    skos:exactMatch dbr:Loranthaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/124> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:magmatique a skos:Concept ;
     skos:inScheme ana:phototheque ;
