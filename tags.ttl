@@ -33,7 +33,7 @@ ana:alluviale a skos:Concept ;
     skos:broader ana:foret ;
     skos:prefLabel "forêt alluviale"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/36> ;
-    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/For%C3%AAt_alluviale> .
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Forêt_alluviale> .
 
 <https://photos.ariegenature.fr/index.php?/search/36> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -288,7 +288,7 @@ ana:combe a skos:Concept ;
     skos:broader ana:montagne ;
     skos:prefLabel "combe à neige"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/71> ;
-    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Combe_%C3%A0_neige> .
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Combe_à_neige> .
 
 <https://photos.ariegenature.fr/index.php?/search/71> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -344,7 +344,7 @@ ana:crustace a skos:Concept ;
     skos:broader ana:faune ;
     skos:prefLabel "crustacé"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/77> ;
-    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Crustac%C3%A9> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Crustacé> ;
     skos:exactMatch dbr:Crustacé .
 
 <https://photos.ariegenature.fr/index.php?/search/77> a schema:SearchResultsPage, schema:ImageGallery .
@@ -392,8 +392,8 @@ ana:echassier a skos:Concept ;
     skos:broader ana:oiseau ;
     skos:prefLabel "échassier"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/82> ;
-    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/%C3%89chassier_(oiseau)> ;
-    skos:exactMatch dbr:Échassier .
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Échassier_(oiseau)> ;
+    skos:exactMatch dbr:Échassier_\(oiseau\) .
 
 <https://photos.ariegenature.fr/index.php?/search/82> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -804,7 +804,7 @@ ana:maquis a skos:Concept ;
     skos:prefLabel "maquis"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/129> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Maquis_(botanique)> ;
-    skos:exactMatch dbr:Maquis_(botanique) .
+    skos:exactMatch dbr:Maquis_\(botanique\) .
 
 <https://photos.ariegenature.fr/index.php?/search/129> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -870,7 +870,7 @@ ana:mine a skos:Concept ;
     skos:prefLabel "mine"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/136> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Mine_(gisement)> ;
-    skos:exactMatch dbr:Mine_(gisement) .
+    skos:exactMatch dbr:Mine_\(gisement\) .
 
 <https://photos.ariegenature.fr/index.php?/search/136> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -1021,7 +1021,7 @@ ana:passereau a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:oiseau ;
     skos:prefLabel "passereau"@fr ;
-    skos:altLabel "passeriforme"
+    skos:altLabel "passeriforme" ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/153> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Passeriformes> ;
     skos:exactMatch dbr:Passeriformes .
@@ -1042,7 +1042,7 @@ ana:pelouse_alpine a skos:Concept ;
     skos:prefLabel "pelouse alpine"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/155> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Prairies_et_terres_arbustives_de_montagne> ;
-    skos:closeMatch dbr:http://fr.dbpedia.org/page/Prairies_et_terres_arbustives_de_montagne .
+    skos:closeMatch dbr:Prairies_et_terres_arbustives_de_montagne .
 
 <https://photos.ariegenature.fr/index.php?/search/155> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -1142,7 +1142,7 @@ ana:prairie a skos:Concept ;
     skos:prefLabel "prairie"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/165> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Prairies,_savanes_et_terres_arbustives_tempérées> ;
-    skos:exactMatch dbr:Prairies,_savanes_et_terres_arbustives_tempérées .
+    skos:exactMatch dbr:Prairies\,_savanes_et_terres_arbustives_tempérées .
 
 <https://photos.ariegenature.fr/index.php?/search/165> a schema:SearchResultsPage, schema:ImageGallery .
 
@@ -1328,7 +1328,7 @@ ana:source a skos:Concept ;
     skos:prefLabel "source"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/185> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Source_(hydrologie)> ;
-    skos:exactMatch dbr:Source_(hydrologie) .
+    skos:exactMatch dbr:Source_\(hydrologie\) .
 
 <https://photos.ariegenature.fr/index.php?/search/185> a schema:SearchResultsPage, schema:ImageGallery .
 
