@@ -489,7 +489,7 @@ ana:formation a skos:Concept ;
 ana:fougere a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:flore ;
-    skos:prefLabel "foougère"@fr ;
+    skos:prefLabel "fougère"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/95> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Filicophyta> ;
     skos:exactMatch dbr:Filicophyta .
