@@ -4,7 +4,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix dbr: <http://fr.dbpedia.org/resource/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix schema: <https://schema.org/> .
+@prefix schema: <http://schema.org/> .
 
 ana:phototheque a skos:ConceptScheme ;
     dcterms:title "Etiquettes de la photothèque"@fr .
