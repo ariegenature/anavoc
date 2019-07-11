@@ -1235,3 +1235,1443 @@ ana:insecte a skos:Concept ;
     skos:exactMatch dbr:Insecte .
 
 <https://photos.ariegenature.fr/index.php?/search/218> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:pteridophyte a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "ptéridophyte"@fr ;
+    skos:altLabel "fougère"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/257> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Pteridophyta> ;
+    skos:exactMatch dbr:Pteridophyta .
+
+<https://photos.ariegenature.fr/index.php?/search/257> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:azollaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "azollaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/258> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Azolla> ;
+    skos:exactMatch dbr:Azolla .
+
+<https://photos.ariegenature.fr/index.php?/search/258> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:equisetaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "equisetaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/259> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Equisetum> ;
+    skos:exactMatch dbr:Equisetum .
+
+<https://photos.ariegenature.fr/index.php?/search/259> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:hymenophyllaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "hymenophyllaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/260> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hymenophyllaceae> ;
+    skos:closeMatch dbr:Hymenophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/260> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana: a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel ""@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/> ;
+    skos:exactMatch dbr: .
+
+<https://photos.ariegenature.fr/index.php?/search/> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:isoetaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "isoetaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/261> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Isoetes> ;
+    skos:closeMatch dbr:Isoetes .
+
+<https://photos.ariegenature.fr/index.php?/search/261> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:osmundaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "osmundaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/262> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Osmundaceae> ;
+    skos:exactMatch dbr:Osmundaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/262> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:ophioglossaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "ophioglossaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/263> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ophioglossaceae> ;
+    skos:exactMatch dbr:Ophioglossaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/263> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:filicales a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "filicales"@fr ;
+    skos:altLabel "polypodiales"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/264> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Polypodiales> ;
+    skos:exactMatch dbr:Polypodiales .
+
+<https://photos.ariegenature.fr/index.php?/search/264> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:selaginellaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "selaginellaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/266> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Selaginellaceae> ;
+    skos:exactMatch dbr:Selaginellaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/266> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:zygophyllaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "zygophyllaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/267> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Zygophyllaceae> ;
+    skos:exactMatch dbr:Zygophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/267> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:lycopodiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:pteridophyte ;
+    skos:prefLabel "lycopodiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/268> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lycopodiaceae> ;
+    skos:exactMatch dbr:Lycopodiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/268> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:gymnosperme a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "gymnosperme"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/269> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Gymnosperme> ;
+    skos:exactMatch dbr:Gymnosperme .
+
+<https://photos.ariegenature.fr/index.php?/search/269> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:pinaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:gymnosperme ;
+    skos:prefLabel "pinaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/270> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Pinaceae> ;
+    skos:exactMatch dbr:Pinaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/270> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cupressaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:gymnosperme ;
+    skos:prefLabel "cupressaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/271> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cupressaceae> ;
+    skos:exactMatch dbr:Cupressaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/271> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:taxaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:gymnosperme ;
+    skos:prefLabel "taxaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/272> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Taxaceae> ;
+    skos:exactMatch dbr:Taxaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/272> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:monocotyledone a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "monocotylédone"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/273> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Monocotylédone> ;
+    skos:exactMatch dbr:Monocotylédone .
+
+<https://photos.ariegenature.fr/index.php?/search/273> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:alismataceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "alismataceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/274> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Alismataceae> ;
+    skos:exactMatch dbr:Alismataceae .
+
+<https://photos.ariegenature.fr/index.php?/search/274> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:amaryllidaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "amaryllidaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/275> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Amaryllidaceae> ;
+    skos:exactMatch dbr:Amaryllidaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/275> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:araceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "araceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/276> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Araceae> ;
+    skos:exactMatch dbr:Araceae .
+
+<https://photos.ariegenature.fr/index.php?/search/276> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:asparagaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "asparagaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/277> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Asparagaceae> ;
+    skos:exactMatch dbr:Asparagaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/277> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:butomaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "butomaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/278> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Butomaceae> ;
+    skos:exactMatch dbr:Butomaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/278> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:colchicaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "colchicaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/279> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Colchicaceae> ;
+    skos:exactMatch dbr:Colchicaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/279> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:commelinaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "commelinaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/280> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Commelinaceae> ;
+    skos:exactMatch dbr:Commelinaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/280> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cyperaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "cyperaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/281> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cyperaceae> ;
+    skos:exactMatch dbr:Cyperaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/281> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:dioscoreaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "dioscoreaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/282> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Dioscoreaceae> ;
+    skos:exactMatch dbr:Dioscoreaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/282> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:hydrocharitaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "hydrocharitaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/283> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hydrocharitaceae> ;
+    skos:exactMatch dbr:Hydrocharitaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/283> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:iridaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "iridaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/284> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Iridaceae> ;
+    skos:exactMatch dbr:Iridaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/284> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:juncaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "juncaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/285> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Juncaceae> ;
+    skos:exactMatch dbr:Juncaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/285> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:juncaginaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "juncaginaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/286> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Juncaginaceae> ;
+    skos:exactMatch dbr:Juncaginaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/286> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:liliaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "liliaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/287> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Liliaceae> ;
+    skos:exactMatch dbr:Liliaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/287> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:melianthaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "melianthaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/288> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Melianthaceae> ;
+    skos:exactMatch dbr:Melianthaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/288> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:nartheciaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "nartheciaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/289> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Nartheciaceae> ;
+    skos:exactMatch dbr:Nartheciaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/289> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:orchidaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "orchidaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/290> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Orchidaceae> ;
+    skos:exactMatch dbr:Orchidaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/290> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:poaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "poaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/291> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Poaceae> ;
+    skos:exactMatch dbr:Poaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/291> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:potamogetonaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "potamogetonaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/292> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Potamogetonaceae> ;
+    skos:exactMatch dbr:Potamogetonaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/292> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:scheuchzeriaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "scheuchzeriaceae"@fr ;
+    skos:altLabel "Scheuchzeria palustris"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/293> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Scheuchzeria_palustris> ;
+    skos:exactMatch dbr:Scheuchzeria_palustris .
+
+<https://photos.ariegenature.fr/index.php?/search/293> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:tofieldiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "tofieldiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/294> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Tofieldiaceae> ;
+    skos:exactMatch dbr:Tofieldiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/294> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:typhaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:monocotyledone ;
+    skos:prefLabel "typhaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/295> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Typhaceae> ;
+    skos:exactMatch dbr:Typhaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/295> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:dicotyledone a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:flore ;
+    skos:prefLabel "dicotylédone"@fr ;
+    skos:altLabel "magnoliopsida"@fr;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/296> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Magnoliopsida> ;
+    skos:exactMatch dbr:Magnoliopsida .
+
+<https://photos.ariegenature.fr/index.php?/search/296> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:aceraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "aceraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/297> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aceraceae> ;
+    skos:exactMatch dbr:Aceraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/297> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:adoxaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "adoxaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/298> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Adoxaceae> ;
+    skos:exactMatch dbr:Adoxaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/298> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:amaranthaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "amaranthaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/299> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Amaranthaceae> ;
+    skos:exactMatch dbr:Amaranthaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/299> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:anacardiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "anacardiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/300> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Anacardiaceae> ;
+    skos:exactMatch dbr:Anacardiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/300> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:apiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "apiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/301> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Apiaceae> ;
+    skos:exactMatch dbr:Apiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/301> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:apocynaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "apocynaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/302> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Apocynaceae> ;
+    skos:exactMatch dbr:Apocynaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/302> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:aquifoliaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "aquifoliaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/303> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aquifoliaceae> ;
+    skos:exactMatch dbr:Aquifoliaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/303> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:araliaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "araliaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/304> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Araliaceae> ;
+    skos:exactMatch dbr:Araliaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/304> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:aristolochiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "aristolochiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/305> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Aristolochiaceae> ;
+    skos:exactMatch dbr:Aristolochiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/305> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:asclepiadaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "asclepadiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/306> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Asclepiadaceae> ;
+    skos:exactMatch dbr:Asclepiadaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/306> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:asteraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "asteraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/307> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Asteraceae> ;
+    skos:exactMatch dbr:Asteraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/307> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:balsaminaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "balsaminaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/308> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Balsaminaceae> ;
+    skos:exactMatch dbr:Balsaminaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/308> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:basellaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "basellaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/309> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Basellaceae> ;
+    skos:exactMatch dbr:Basellaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/309> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:berberidaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "berberidaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/310> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Berberidaceae> ;
+    skos:exactMatch dbr:Berberidaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/310> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:betulaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "betulaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/311> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Betulaceae> ;
+    skos:exactMatch dbr:Betulaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/311> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:boraginaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "boraginaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/312> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Boraginaceae> ;
+    skos:exactMatch dbr:Boraginaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/312> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:brassicaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "brassicaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/313> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Brassicaceae> ;
+    skos:exactMatch dbr:Brassicaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/313> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:buddlejaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "buddlejaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/314> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Buddlejaceae> ;
+    skos:exactMatch dbr:Buddlejaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/314> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:buxaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "buxaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/315> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Buxaceae> ;
+    skos:exactMatch dbr:Buxaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/315> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:callitrichaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "callitrichaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/316> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Callitrichaceae> ;
+    skos:exactMatch dbr:Callitrichaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/316> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:campanulaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "campanulaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/317> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Campanulaceae> ;
+    skos:exactMatch dbr:Campanulaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/317> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cannabaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "cannabaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/318> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cannabaceae> ;
+    skos:exactMatch dbr:Cannabaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/318> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:caprifoliaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "caprifoliaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/319> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Caprifoliaceae> ;
+    skos:exactMatch dbr:Caprifoliaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/319> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:caryophyllaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "caryophyllaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/320> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Caryophyllaceae> ;
+    skos:exactMatch dbr:Caryophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/320> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:celastraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "celastraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/321> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Celastraceae> ;
+    skos:exactMatch dbr:Celastraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/321> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:ceratophyllaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "ceratophyllaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/322> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ceratophyllaceae> ;
+    skos:exactMatch dbr:Ceratophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/322> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:chenopodiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "chenopodiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/323> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Chenopodiaceae> ;
+    skos:exactMatch dbr:Chenopodiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/323> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cistaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "cistaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/324> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cistaceae> ;
+    skos:exactMatch dbr:Cistaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/324> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:convolvulaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "convolvulaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/325> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Convolvulaceae> ;
+    skos:exactMatch dbr:Convolvulaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/325> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:coriariaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "coriariaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/326> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Coriariaceae> ;
+    skos:exactMatch dbr:Coriariaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/326> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cornaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "cornaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/327> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cornaceae> ;
+    skos:exactMatch dbr:Cornaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/327> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:corylaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "corylaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/328> .
+
+<https://photos.ariegenature.fr/index.php?/search/328> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:crassulaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "crassulaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/329> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Crassulaceae> ;
+    skos:exactMatch dbr:Crassulaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/329> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:cucurbitaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "cucurbitaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/330> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Cucurbitaceae> ;
+    skos:exactMatch dbr:Cucurbitaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/330> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:dipsacaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "dipsacaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/331> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Dipsacaceae> ;
+    skos:exactMatch dbr:Dipsacaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/331> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:droseraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "droseraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/332> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Droseraceae> ;
+    skos:exactMatch dbr:Droseraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/332> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:elatinaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "elatinaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/333> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Elatinaceae> ;
+    skos:exactMatch dbr:Elatinaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/333> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:empetraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "empetraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/334> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Empetraceae> ;
+    skos:exactMatch dbr:Empetraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/334> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:ericaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "ericaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/335> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ericaceae> ;
+    skos:exactMatch dbr:Ericaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/335> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:euphorbiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "euphorbiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/336> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Euphorbiaceae> ;
+    skos:exactMatch dbr:Euphorbiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/336> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:fabaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "fabaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/337> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Fabaceae> ;
+    skos:exactMatch dbr:Fabaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/337> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:fagaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "fagaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/338> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Fagaceae> ;
+    skos:exactMatch dbr:Fagaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/338> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:gentianaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "gentianaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/339> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Gentianaceae> ;
+    skos:exactMatch dbr:Gentianaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/339> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:geraniaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "geraniaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/340> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Geraniaceae> ;
+    skos:exactMatch dbr:Geraniaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/340> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:gesneriaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "gesneriaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/341> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Gesneriaceae> ;
+    skos:exactMatch dbr:Gesneriaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/341> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:globulariaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "globulariaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/342> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Globulariaceae> ;
+    skos:exactMatch dbr:Globulariaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/342> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:grossulariaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "grossulariaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/343> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Grossulariaceae> ;
+    skos:exactMatch dbr:Grossulariaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/343> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:haloragaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "haloragaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/344> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Haloragaceae> ;
+    skos:exactMatch dbr:Haloragaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/344> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:hippocastanaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "hippocastanaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/345> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hippocastanaceae> ;
+    skos:exactMatch dbr:Hippocastanaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/345> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:hippuridaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "hippuridaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/346> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hippuridaceae> ;
+    skos:exactMatch dbr:Hippuridaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/346> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:hydrophyllaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "hydrophyllaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/347> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hydrophyllaceae> ;
+    skos:exactMatch dbr:Hydrophyllaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/347> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:hypericaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "hypericaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/348> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Hypericaceae> ;
+    skos:exactMatch dbr:Hypericaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/348> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:illecebraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "illecebraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/350> .
+
+<https://photos.ariegenature.fr/index.php?/search/350> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:juglandaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "juglandaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/351> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Juglandaceae> ;
+    skos:exactMatch dbr:Juglandaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/351> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:lamiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "lamiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/352> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lamiaceae> ;
+    skos:exactMatch dbr:Lamiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/352> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:lauraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "lauraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/353> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lauraceae> ;
+    skos:exactMatch dbr:Lauraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/353> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:lemnaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "lemnaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/354> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lemnaceae> ;
+    skos:exactMatch dbr:Lemnaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/354> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:lentibulariaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "lentibulariaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/355> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lentibulariaceae> ;
+    skos:exactMatch dbr:Lentibulariaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/355> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:linaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "linaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/356> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Linaceae> ;
+    skos:exactMatch dbr:Linaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/356> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:lythraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "lythraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/357> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Lythraceae> ;
+    skos:exactMatch dbr:Lythraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/357> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:malvaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "malvaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/358> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Malvaceae> ;
+    skos:exactMatch dbr:Malvaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/358> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:menyanthaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "menyanthaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/359> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Menyanthaceae> ;
+    skos:exactMatch dbr:Menyanthaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/359> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:molluginaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "molluginaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/360> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Molluginaceae> ;
+    skos:exactMatch dbr:Molluginaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/360> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:moraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "moraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/361> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Moraceae> ;
+    skos:exactMatch dbr:Moraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/361> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:nyctaginaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "nyctaginaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/362> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Nyctaginaceae> ;
+    skos:exactMatch dbr:Nyctaginaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/362> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:nymphaeaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "nymphaeaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/363> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Nymphaeaceae> ;
+    skos:exactMatch dbr:Nymphaeaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/363> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:oleaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "oleaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/364> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Oleaceae> ;
+    skos:exactMatch dbr:Oleaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/364> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:onagraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "onagraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/365> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Onagraceae> ;
+    skos:exactMatch dbr:Onagraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/365> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:orobanchaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "orobanchaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/366> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Orobanchaceae> ;
+    skos:exactMatch dbr:Orobanchaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/366> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:oxalidaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "oxalidaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/367> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Oxalidaceae> ;
+    skos:exactMatch dbr:Oxalidaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/367> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:papaveraceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "papaveraceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/368> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Papaveraceae> ;
+    skos:exactMatch dbr:Papaveraceae .
+
+<https://photos.ariegenature.fr/index.php?/search/368> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:parnassiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "parnassiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/369> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Parnassiaceae> ;
+    skos:exactMatch dbr:Parnassiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/369> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:phytolaccaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "phytolaccaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/370> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Phytolaccaceae> ;
+    skos:exactMatch dbr:Phytolaccaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/370> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:plantaginaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "plantaginaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/371> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Plantaginaceae> ;
+    skos:exactMatch dbr:Plantaginaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/371> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:platanaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "platanaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/372> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Platanaceae> ;
+    skos:exactMatch dbr:Platanaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/372> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:plumbaginaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "plumbaginaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/373> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Plumbaginaceae> ;
+    skos:exactMatch dbr:Plumbaginaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/373> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:polemoniaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "polemoniaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/374> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Polemoniaceae> ;
+    skos:exactMatch dbr:Polemoniaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/374> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:polygalaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "polygalaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/375> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Polygalaceae> ;
+    skos:exactMatch dbr:Polygalaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/375> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:polygonaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "polygonaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/376> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Polygonaceae> ;
+    skos:exactMatch dbr:Polygonaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/376> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:portulacaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "portulacaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/377> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Portulacaceae> ;
+    skos:exactMatch dbr:Portulacaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/377> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:primulaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "primulaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/378> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Primulaceae> ;
+    skos:exactMatch dbr:Primulaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/378> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:ranunculaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "ranunculaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/379> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ranunculaceae> ;
+    skos:exactMatch dbr:Ranunculaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/379> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:resedaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "resedaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/380> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Resedaceae> ;
+    skos:exactMatch dbr:Resedaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/380> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:rhamnaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "rhamnaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/381> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Rhamnaceae> ;
+    skos:exactMatch dbr:Rhamnaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/381> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:rosaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "rosaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/382> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Rosaceae> ;
+    skos:exactMatch dbr:Rosaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/382> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:rubiaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "rubiaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/383> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Rubiaceae> ;
+    skos:exactMatch dbr:Rubiaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/383> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:rutaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "rutaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/384> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Rutaceae> ;
+    skos:exactMatch dbr:Rutaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/384> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:salicaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "salicaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/385> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Salicaceae> ;
+    skos:exactMatch dbr:Salicaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/385> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:santalaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "santalaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/386> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Santalaceae> ;
+    skos:exactMatch dbr:Santalaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/386> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:saxifragaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "saxifragaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/387> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Saxifragaceae> ;
+    skos:exactMatch dbr:Saxifragaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/387> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:scrophulariaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "scrophulariaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/388> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Scrophulariaceae> ;
+    skos:exactMatch dbr:Scrophulariaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/388> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:simaroubaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "simaroubaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/389> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Simaroubaceae> ;
+    skos:exactMatch dbr:Simaroubaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/389> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:solanaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "solanaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/390> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Solanaceae> ;
+    skos:exactMatch dbr:Solanaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/390> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:tamaricaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "tamaricaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/391> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Tamaricaceae> ;
+    skos:exactMatch dbr:Tamaricaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/391> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:thymelaeaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "thymelaeaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/392> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Thymelaeaceae> ;
+    skos:exactMatch dbr:Thymelaeaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/392> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:tiliaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "tiliaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/393> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Tiliaceae> ;
+    skos:exactMatch dbr:Tiliaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/393> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:ulmaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "ulmaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/394> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Ulmaceae> ;
+    skos:exactMatch dbr:Ulmaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/394> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:urticaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "urticaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/395> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Urticaceae> ;
+    skos:exactMatch dbr:Urticaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/395> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:valerianaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "valerianaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/396> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Valerianaceae> ;
+    skos:exactMatch dbr:Valerianaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/396> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:verbenaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "verbenaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/397> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Verbenaceae> ;
+    skos:exactMatch dbr:Verbenaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/397> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:violaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "violaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/398> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Violaceae> ;
+    skos:exactMatch dbr:Violaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/398> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:viscaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "viscaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/399> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Viscaceae> ;
+    skos:exactMatch dbr:Viscaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/399> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:vitaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "vitaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/400> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Vitaceae> ;
+    skos:exactMatch dbr:Vitaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/400> a schema:SearchResultsPage, schema:ImageGallery .
+
+ana:xanthorrhoeaceae a skos:Concept ;
+    skos:inScheme ana:phototheque ;
+    skos:broader ana:dicotyledone ;
+    skos:prefLabel "xanthorrhoeaceae"@fr ;
+    foaf:page <https://photos.ariegenature.fr/index.php?/search/401> ;
+    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Xanthorrhoeaceae> ;
+    skos:exactMatch dbr:Xanthorrhoeaceae .
+
+<https://photos.ariegenature.fr/index.php?/search/401> a schema:SearchResultsPage, schema:ImageGallery .
