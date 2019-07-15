@@ -1277,14 +1277,6 @@ ana:hymenophyllaceae a skos:Concept ;
 
 <https://photos.ariegenature.fr/index.php?/search/260> a schema:SearchResultsPage, schema:ImageGallery .
 
-ana: a skos:Concept ;
-    skos:inScheme ana:phototheque ;
-    skos:broader ana:pteridophyte ;
-    skos:prefLabel ""@fr ;
-    foaf:page <https://photos.ariegenature.fr/index.php?/search/> ;
-    foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/> ;
-    skos:exactMatch dbr: .
-
 <https://photos.ariegenature.fr/index.php?/search/> a schema:SearchResultsPage, schema:ImageGallery .
 
 ana:isoetaceae a skos:Concept ;
