@@ -929,7 +929,7 @@ ana:sortie_adherent a skos:Concept ;
 
 ana:source a skos:Concept ;
     skos:inScheme ana:phototheque ;
-    skos:broader ana:eau_cournate ;
+    skos:broader ana:eau_courante ;
     skos:prefLabel "source"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/185> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Source_(hydrologie)> ;
