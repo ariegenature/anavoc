@@ -736,7 +736,7 @@ ana:passereau a skos:Concept ;
     skos:inScheme ana:phototheque ;
     skos:broader ana:oiseau ;
     skos:prefLabel "passereau"@fr ;
-    skos:altLabel "passeriforme" ;
+    skos:altLabel "passeriforme"@fr ;
     foaf:page <https://photos.ariegenature.fr/index.php?/search/153> ;
     foaf:isPrimaryTopicOf <https://fr.wikipedia.org/wiki/Passeriformes> ;
     skos:exactMatch dbr:Passeriformes .
